@@ -1,0 +1,6 @@
+framework module Pods_TrendingMovies_MVVM_ {
+  umbrella header "Pods-TrendingMovies(MVVM)-umbrella.h"
+
+  export *
+  module * { export * }
+}
